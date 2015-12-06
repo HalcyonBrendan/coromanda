@@ -1,4 +1,4 @@
-class Match(object):
+class Game(object):
     def __init__:
         pass
 
